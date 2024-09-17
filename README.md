@@ -1,6 +1,9 @@
 # MRP Price bot
 
-A Discord bot to show morphine token price.
+A Discord bot to show Morphine token price.
+
+## Contact me
+Telegram: [@derricklee918](https://t.me/@derricklee918)
 
 ## Quickstart
 
