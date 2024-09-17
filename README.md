@@ -1,4 +1,4 @@
-# MRP Price bot
+# Discord - MRP Price Bot
 
 A Discord bot to show Morphine token price.
 
